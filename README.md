@@ -1,4 +1,4 @@
-
+![logo](https://github.com/emsh93/emsh93/blob/main/bercu85%40gmail.com.png)
 <h1 align="center">Hi 👋, I'm Alexander Bercu</h1>
 <h3 align="center">I’m interested in coding and networking.</h3>
 
