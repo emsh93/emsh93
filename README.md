@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emsh93&label=Profile%20views&color=0e75b6&style=flat" alt="emsh93" /> </p>
 
-- 🌱 I’m currently studying in Germany **IT-Specialist**
+- 🌱 I’m currently studying in Germany as a **IT-Specialist**
 
 - 📫 How to reach me **bercu85@gmail.com**
 
