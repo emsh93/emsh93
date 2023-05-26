@@ -19,7 +19,9 @@
 <p align="center">
     Coding | Game Development | Networking | Cybersecurity | Problem-Solving | Collaboration
 </p>
-</a>
+<pre>
+</pre>
+
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
@@ -34,7 +36,8 @@
 - ⚡ Fun fact **In addition to my passion for coding, I am an avid gamer.**
 
 
-
+<pre>
+</pre>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emsh93&show_icons=true&locale=en" alt="emsh93" /></p>
 </a>
