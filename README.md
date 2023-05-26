@@ -5,7 +5,7 @@
 </a>
 <h2 align="center">My Certifications Badges</h1>
 <p align="center"><a href="https://comptia.org" target="_blank" rel="noreferrer"> <img src="https://github.com/emsh93/emsh93/blob/main/NetworkPlus%20Logo%20Certified%20CE.png" alt="bash" width="40" height="40"/> </a>
-<a href="(https://aws.amazon.com/)" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="bash" width="40" height="40"/> </a> <a href="(https://www.siemens.com/global/en.html)" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/19bfec66-2453-4e67-be25-eea175ad1130/38b3474b30521af47cf66d0e8f130cdc.png" alt="bash" width="40" height="40"/> </a></p>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.siemens.com/global/en.html" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/19bfec66-2453-4e67-be25-eea175ad1130/38b3474b30521af47cf66d0e8f130cdc.png" alt="bash" width="40" height="40"/> </a></p>
 </a>
 <h3 align="center">I’m interested in coding and networking.</h3>
 
