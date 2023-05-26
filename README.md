@@ -10,11 +10,14 @@
 <p align="center"><a href="https://worldofwarcraft.blizzard.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png" alt="bash" width="40" height="40"/> </a><a href="https://diablo4.blizzard.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/0e/71/04/0e7104ae10f2f09a26d00f17f5ee0109.jpg" alt="bash" width="40" height="40"/> </a> <a href="https://starcraft2.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/892c91e0a653ba19df81a90f89d99bcd/32/256x256.png" alt="bash" width="40" height="40"/> </a></p>
 
 </a>
-<h3 align="center">I’m interested in coding and networking.</h3>
+<h3 align="center">I’m interested in coding, gaming and networking.</h3>
+</a>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emsh93&label=Profile%20views&color=0e75b6&style=flat" alt="emsh93" /> </p>
+</a>
 
 - 🌱 I’m currently studying in Germany as an **IT-Specialist**
 
@@ -26,5 +29,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emsh93&show_icons=true&locale=en" alt="emsh93" /></p>
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emsh93&" alt="emsh93" /></p>
