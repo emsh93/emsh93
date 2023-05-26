@@ -3,14 +3,22 @@
 <p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 </a>
 </a>
-<h2 align="center">My Certifications Badges</h1>
+<h2 align="center">Certifications Badges</h1>
 <p align="center"><a href="(https://comptia.org)" target="_blank" rel="noreferrer"> <img src="https://github.com/emsh93/emsh93/blob/main/NetworkPlus%20Logo%20Certified%20CE.png" alt="bash" width="40" height="40"/> </a>
 <a href="(https://aws.amazon.com/)" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="bash" width="40" height="40"/> </a> <a href="(https://www.siemens.com/global/en.html)" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/19bfec66-2453-4e67-be25-eea175ad1130/38b3474b30521af47cf66d0e8f130cdc.png" alt="bash" width="40" height="40"/> </a></p>
-<h2 align="center">My Gaming Interests</h1>
+<h2 align="center">Gaming Interests</h1>
 <p align="center"><a href="https://worldofwarcraft.blizzard.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png" alt="bash" width="40" height="40"/> </a><a href="https://diablo4.blizzard.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/0e/71/04/0e7104ae10f2f09a26d00f17f5ee0109.jpg" alt="bash" width="40" height="40"/> </a> <a href="https://starcraft2.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/892c91e0a653ba19df81a90f89d99bcd/32/256x256.png" alt="bash" width="40" height="40"/> </a></p>
 
 </a>
-<h3 align="center">I’m interested in coding, gaming and networking.</h3>
+<h2 align="center">Soft Skills</h2>
+
+<p align="center">
+    Problem-Solving | Communication | Teamwork | Adaptability | Attention to Detail
+</p>
+<h2 align="center">Key Skills</h2>
+<p align="center">
+    Coding | Game Development | Networking | Cybersecurity | Problem-Solving | Collaboration
+</p>
 </a>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
