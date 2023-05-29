@@ -9,7 +9,7 @@
 <h2 align="center">Gaming Interests</h1>
 <p align="center"><a href="https://worldofwarcraft.blizzard.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png" alt="bash" width="40" height="40"/> </a><a href="https://diablo4.blizzard.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/0e/71/04/0e7104ae10f2f09a26d00f17f5ee0109.jpg" alt="bash" width="40" height="40"/> </a> <a href="https://starcraft2.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/892c91e0a653ba19df81a90f89d99bcd/32/256x256.png" alt="bash" width="40" height="40"/> </a></p>
 <h2 align="center">Certifications Diploms </h1>
-<p align="center"><a href="https://github.com/emsh93/My_achievements" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/free-icon/pointing_318-178143.jpg" alt="bash" width="40" height="40"/> </a></p>
+<p align="center"><a href="https://github.com/emsh93/My_achievements" target="_blank" rel="noreferrer"> <img src="https://www.transparentpng.com/thumb/click-here-button/A62YU7-click-here-button-free-download-transparent.png" alt="bash" width="120" height="50"/> </a></p>
 
 </a>
 <h2 align="center">Soft Skills</h2>
