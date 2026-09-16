@@ -53,7 +53,7 @@ My daily work involves managing production systems, troubleshooting infrastructu
 &nbsp;&nbsp;
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
        alt="Bash" width="45" height="45"/>
 </a>
 &nbsp;&nbsp;
