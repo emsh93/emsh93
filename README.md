@@ -296,7 +296,7 @@ Secure everything else.
 
 <div align="center">
 <a href="https://worldofwarcraft.blizzard.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/WoW_icon.svg" alt="World of Warcraft" width="55" height="55"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://diablo4.blizzard.com/"><img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/diablo.svg" alt="Diablo" width="55" height="55"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://diablo4.blizzard.com/"><img src="https://i.pinimg.com/originals/0e/71/04/0e7104ae10f2f09a26d00f17f5ee0109.jpg" alt="Diablo" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://starcraft2.com/"><img src="https://icons.iconarchive.com/icons/th3-prophetman/game/128/StarCraft-II-icon.png" alt="StarCraft II" width="55" height="55"></a>
 </div>
 
