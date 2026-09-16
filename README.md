@@ -295,28 +295,14 @@ Secure everything else.
 </p>
 
 <div align="center">
-<a href="https://worldofwarcraft.blizzard.com/"><img src="https://cdn.simpleicons.org/battledotnet" alt="World of Warcraft" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://diablo4.blizzard.com/"><img src="https://cdn2.steamgriddb.com/icon/9d8df73a3cfbf3c5b47bc9b50f214aff/32/256x256.png" alt="Diablo" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://starcraft2.com/"><img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/892c91e0a653ba19df81a90f89d99bcd/32/256x256.png" alt="StarCraft II" width="50" height="50"></a>
+<a href="https://worldofwarcraft.blizzard.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/WoW_icon.svg" alt="World of Warcraft" width="55" height="55"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://diablo4.blizzard.com/"><img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/diablo.svg" alt="Diablo" width="55" height="55"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://starcraft2.com/"><img src="https://icons.iconarchive.com/icons/th3-prophetman/game/128/StarCraft-II-icon.png" alt="StarCraft II" width="55" height="55"></a>
 </div>
 
 <p align="center">
-  <b>World of Warcraft • Diablo • StarCraft</b>
+<b>World of Warcraft • Diablo • StarCraft II</b>
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=emsh93&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=emsh93&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
-</div>
 
 ---
 
