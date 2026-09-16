@@ -251,7 +251,8 @@ alex@github:~$ ./show_stack.sh
 
 [ Virtualization ]
   └── VMware vSphere
-
+  └── Proxmox
+  
 [ Networking ]
   ├── Cisco
   ├── Ubiquiti
