@@ -277,70 +277,30 @@ Secure everything else.
 
 <h2 align="center">💡 Other Technologies I've Worked With</h2>
 
-<p align="center">
+<div align="center">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://unity.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.unrealengine.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="45" height="45"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="45" height="45"></a>
+</div>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-       alt="C#" width="40" height="40"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://unity.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-       alt="Unity" width="40" height="40"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.unrealengine.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
-       alt="Unreal Engine" width="40" height="40"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.blender.org/" target="_blank">
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-       alt="Blender" width="40" height="40"/>
-</a>
-
-</p>
-
-<p align="center">
-C# • Unity • Unreal Engine • Blender
-</p>
+<p align="center"><b>C# • Unity • Unreal Engine • Blender</b></p>
 
 ---
 
 <h2 align="center">🎮 Outside of IT</h2>
 
-<p align="center">
-When I'm not working with Linux systems and networks, I'm probably gaming. 🎮
-</p>
+<p align="center">When I'm not working with Linux systems and networks, I'm probably gaming. 🎮</p>
 
-<p align="center">
+<div align="center">
+<a href="https://worldofwarcraft.blizzard.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/240px-WoW_icon.svg.png" alt="World of Warcraft" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://diablo4.blizzard.com/"><img src="https://i.pinimg.com/originals/0e/71/04/0e7104ae10f2f09a26d00f17f5ee0109.jpg" alt="Diablo" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://starcraft2.com/"><img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/892c91e0a653ba19df81a90f89d99bcd/32/256x256.png" alt="StarCraft II" width="50" height="50"></a>
+</div>
 
-<a href="https://worldofwarcraft.blizzard.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/1200px-WoW_icon.svg.png"
-       alt="World of Warcraft" width="45" height="45"/>
-</a>
+<p align="center"><b>World of Warcraft • Diablo • StarCraft</b></p>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://diablo4.blizzard.com/" target="_blank">
-  <img src="https://i.pinimg.com/originals/0e/71/04/0e7104ae10f2f09a26d00f17f5ee0109.jpg"
-       alt="Diablo" width="45" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://starcraft2.com/" target="_blank">
-  <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/892c91e0a653ba19df81a90f89d99bcd/32/256x256.png"
-       alt="StarCraft II" width="45" height="45"/>
-</a>
-
-</p>
+---
 
 ---
 
