@@ -209,10 +209,6 @@ Security is not a product — it's part of the infrastructure.
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/emsh93/My_achievements">
-    📜 <b>View my certifications & achievements</b>
-  </a>
 </p>
 
 ---
