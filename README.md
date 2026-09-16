@@ -177,69 +177,45 @@ Security is not a product — it's part of the infrastructure.
 
 <h2 align="center">🏆 Certifications</h2>
 
-<p align="center">
-
-<a href="https://www.comptia.org/" target="_blank">
-  <img src="https://github.com/emsh93/emsh93/blob/main/NetworkPlus%20Logo%20Certified%20CE.png"
-       alt="CompTIA Network+" width="90"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.comptia.org/" target="_blank">
-  <img src="https://github.com/emsh93/emsh93/blob/main/Linux+-png.png"
-       alt="CompTIA Linux+" width="90"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.comptia.org/" target="_blank">
-  <img src="https://github.com/emsh93/emsh93/blob/main/Security+-png.png"
-       alt="CompTIA Security+" width="90"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.comptia.org/" target="_blank">
-  <img src="https://github.com/emsh93/emsh93/blob/main/comptia-linux-network-professional-clnp-stackable-certification.png"
-       alt="CompTIA Linux Network Professional" width="90"/>
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://www.comptia.org/" target="_blank">
-  <img src="https://github.com/emsh93/emsh93/blob/main/Network_Security_Badge.png"
-       alt="Network Security" width="90"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://aws.amazon.com/certification/" target="_blank">
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"
-       alt="AWS Certified Cloud Practitioner" width="90"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.siemens.com/" target="_blank">
-  <img src="https://images.credly.com/images/19bfec66-2453-4e67-be25-eea175ad1130/38b3474b30521af47cf66d0e8f130cdc.png"
-       alt="Siemens Certification" width="90"/>
-</a>
-
-</p>
+<div align="center">
+  <a href="https://www.comptia.org/">
+    <img src="https://github.com/emsh93/emsh93/blob/main/NetworkPlus%20Logo%20Certified%20CE.png" alt="CompTIA Network+" width="90">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.comptia.org/">
+    <img src="https://github.com/emsh93/emsh93/blob/main/Linux+-png.png" alt="CompTIA Linux+" width="90">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.comptia.org/">
+    <img src="https://github.com/emsh93/emsh93/blob/main/Security+-png.png" alt="CompTIA Security+" width="90">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.comptia.org/">
+    <img src="https://github.com/emsh93/emsh93/blob/main/comptia-linux-network-professional-clnp-stackable-certification.png" alt="CompTIA CLNP" width="90">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.comptia.org/">
+    <img src="https://github.com/emsh93/emsh93/blob/main/Network_Security_Badge.png" alt="Network Security" width="90">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/certification/">
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Certified Cloud Practitioner" width="90">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.siemens.com/">
+    <img src="https://images.credly.com/images/19bfec66-2453-4e67-be25-eea175ad1130/38b3474b30521af47cf66d0e8f130cdc.png" alt="Siemens Certification" width="90">
+  </a>
+</div>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/emsh93/My_achievements">
-    <b>📜 View my certifications & achievements</b>
+    📜 <b>View my certifications & achievements</b>
   </a>
 </p>
 
+---
 ---
 
 <h2>⚙️ What I Work With</h2>
