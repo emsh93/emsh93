@@ -290,35 +290,33 @@ Secure everything else.
 
 <h2 align="center">🎮 Outside of IT</h2>
 
-<p align="center">When I'm not working with Linux systems and networks, I'm probably gaming. 🎮</p>
+<p align="center">
+  When I'm not working with Linux systems and networks, I'm probably gaming. 🎮
+</p>
 
 <div align="center">
-<a href="https://worldofwarcraft.blizzard.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WoW_icon.svg/240px-WoW_icon.svg.png" alt="World of Warcraft" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://diablo4.blizzard.com/"><img src="https://i.pinimg.com/originals/0e/71/04/0e7104ae10f2f09a26d00f17f5ee0109.jpg" alt="Diablo" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://worldofwarcraft.blizzard.com/"><img src="https://cdn.simpleicons.org/battledotnet" alt="World of Warcraft" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://diablo4.blizzard.com/"><img src="https://cdn2.steamgriddb.com/icon/9d8df73a3cfbf3c5b47bc9b50f214aff/32/256x256.png" alt="Diablo" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://starcraft2.com/"><img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/892c91e0a653ba19df81a90f89d99bcd/32/256x256.png" alt="StarCraft II" width="50" height="50"></a>
 </div>
 
-<p align="center"><b>World of Warcraft • Diablo • StarCraft</b></p>
-
----
+<p align="center">
+  <b>World of Warcraft • Diablo • StarCraft</b>
+</p>
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=emsh93&show_icons=true&locale=en&hide_border=true"
-    alt="Alexander Bercu GitHub Stats"
-  />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=emsh93&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+</div>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=emsh93&hide_border=true"
-    alt="Alexander Bercu GitHub Streak"
-  />
-</p>
+<br>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=emsh93&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+</div>
 
 ---
 
